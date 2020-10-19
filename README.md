@@ -39,7 +39,7 @@ I also want to save my favorite shows and movies to view later.
 
 ## Application Description
 
-An application that lets the user search for any show or movie they'd like to stream. This application shows where this show or movie is currently streaming, the realse date, and rating. The user can save the shows and movies they want to watch to a watchlist viewable once they sign into their account. The user can mark which content they've finished watching and delete from their watch list at any time.
+An application that lets the user search for any show or movie they'd like to stream. This application shows where this show or movie is currently streaming, the release date, and user ratings. The user can save the shows and movies they want to watch to a watch list viewable once they sign into their account. The user can mark which content they've finished watching and delete from their watch list at any time.
 
 ## Installation 
 ```
