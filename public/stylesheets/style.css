@@ -36,6 +36,10 @@ a.navbar-brand:hover {
 
 }
 
+.row {
+  margin-right: 0px!important;
+}
+
 /* is this anything? */
 .navbar-default {
   background-color:rgb(20, 20, 20);
